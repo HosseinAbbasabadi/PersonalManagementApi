@@ -4,7 +4,6 @@ namespace MailSystem.Domain
 {
     public class Mail
     {
-
         public long Id { get; set; }
         public string Subject { get; set; }
         public string Message { get; set; }
@@ -15,10 +14,9 @@ namespace MailSystem.Domain
         public bool IsRead { get; set; }
         public bool HasAttachments { get; set; }
 
-
-        public void Create()
-        {
-            // Save to db
-        }
+        //public void CheckSomething(string sender, string reciver)
+        //{
+        //    // some checks
+        //}
     }
 }

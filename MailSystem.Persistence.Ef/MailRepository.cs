@@ -7,14 +7,30 @@ namespace MailSystem.Persistence.Ef
 {
     public class MailRepository : IMailRepository
     {
+        private List<Mail> mails = new List<Mail>()
+        {
+            new Mail
+            {
+                Id = 1,
+                Subject = "fds",
+                Message = "fdsafds",
+                Sender = "command.Sender",
+                Receiver = "command.Receiver",
+                HasAttachments = false,
+                IsDeleted = false,
+                IsRead = false,
+                SendDate = DateTime.Now
+            }
+        };
+
         public void Create(Mail entity)
         {
-            throw new NotImplementedException();
+            this.mails.Add(entity);
         }
 
         public List<Mail> GetAll()
         {
-            throw new NotImplementedException();
+            return mails;
         }
 
         public Mail Get(Expression expression)

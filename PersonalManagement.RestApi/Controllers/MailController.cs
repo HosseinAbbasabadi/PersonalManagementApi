@@ -4,6 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using MailSystem.Application;
 using MailSystem.Application.Command;
+using MailSystem.Application.ViewModel;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
@@ -21,9 +22,9 @@ namespace PersonalManagement.RestApi.Controllers
         }
 
         [HttpGet]
-        public List<string> Get()
+        public ActionResult<List<MailDetails>> Get()
         {
-            return new List<string> {" some value", "some value 2"};
+            return _mailApplication.GetAllMails();
         }
 
         [HttpPost]

@@ -24,8 +24,7 @@
     ".NETCoreApp,Version=v2.1": {
       "PersonalManagement.RestApi/1.0.0": {
         "dependencies": {
-          "MailSystem.Application": "1.0.0",
-          "MailSystem.Persistence.Ef": "1.0.0",
+          "Infrastructure.Configuration": "1.0.0",
           "Microsoft.AspNetCore.App": "2.1.1",
           "Microsoft.NETCore.App": "2.1.0",
           "Microsoft.VisualStudio.Web.CodeGeneration.Design": "2.1.1"
@@ -520,6 +519,18 @@
         },
         "compile": {
           "Framework.Core.dll": {}
+        }
+      },
+      "Infrastructure.Configuration/1.0.0": {
+        "dependencies": {
+          "MailSystem.Application": "1.0.0",
+          "MailSystem.Persistence.Ef": "1.0.0"
+        },
+        "runtime": {
+          "Infrastructure.Configuration.dll": {}
+        },
+        "compile": {
+          "Infrastructure.Configuration.dll": {}
         }
       },
       "MailSystem.Application/1.0.0": {
@@ -3683,6 +3694,11 @@
       "hashPath": "system.linq.parallel.4.3.0.nupkg.sha512"
     },
     "Framework.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Infrastructure.Configuration/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

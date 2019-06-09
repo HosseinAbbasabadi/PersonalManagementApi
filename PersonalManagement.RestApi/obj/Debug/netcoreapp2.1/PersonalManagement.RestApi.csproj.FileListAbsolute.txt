@@ -21,3 +21,5 @@ D:\Abbasabadi\Web api\Session04\PersonalManagement\PersonalManagement.RestApi\bi
 D:\Abbasabadi\Web api\Session04\PersonalManagement\PersonalManagement.RestApi\bin\Debug\netcoreapp2.1\Framework.Core.pdb
 D:\Abbasabadi\Web api\Session04\PersonalManagement\PersonalManagement.RestApi\bin\Debug\netcoreapp2.1\MailSystem.Domain.pdb
 D:\Abbasabadi\Web api\Session04\PersonalManagement\PersonalManagement.RestApi\obj\Debug\netcoreapp2.1\PersonalManagement.RestApi.csproj.CopyComplete
+D:\Abbasabadi\Web api\Session04\PersonalManagement\PersonalManagement.RestApi\bin\Debug\netcoreapp2.1\Infrastructure.Configuration.dll
+D:\Abbasabadi\Web api\Session04\PersonalManagement\PersonalManagement.RestApi\bin\Debug\netcoreapp2.1\Infrastructure.Configuration.pdb
