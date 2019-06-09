@@ -1,0 +1,12 @@
+D:\Abbasabadi\Web api\Session04\PersonalManagement\MailSystem.Domain\bin\Debug\netcoreapp2.1\MailSystem.Domain.deps.json
+D:\Abbasabadi\Web api\Session04\PersonalManagement\MailSystem.Domain\bin\Debug\netcoreapp2.1\MailSystem.Domain.dll
+D:\Abbasabadi\Web api\Session04\PersonalManagement\MailSystem.Domain\bin\Debug\netcoreapp2.1\MailSystem.Domain.pdb
+D:\Abbasabadi\Web api\Session04\PersonalManagement\MailSystem.Domain\bin\Debug\netcoreapp2.1\Framework.Core.dll
+D:\Abbasabadi\Web api\Session04\PersonalManagement\MailSystem.Domain\bin\Debug\netcoreapp2.1\Framework.Core.pdb
+D:\Abbasabadi\Web api\Session04\PersonalManagement\MailSystem.Domain\obj\Debug\netcoreapp2.1\MailSystem.Domain.csprojAssemblyReference.cache
+D:\Abbasabadi\Web api\Session04\PersonalManagement\MailSystem.Domain\obj\Debug\netcoreapp2.1\MailSystem.Domain.csproj.CoreCompileInputs.cache
+D:\Abbasabadi\Web api\Session04\PersonalManagement\MailSystem.Domain\obj\Debug\netcoreapp2.1\MailSystem.Domain.AssemblyInfoInputs.cache
+D:\Abbasabadi\Web api\Session04\PersonalManagement\MailSystem.Domain\obj\Debug\netcoreapp2.1\MailSystem.Domain.AssemblyInfo.cs
+D:\Abbasabadi\Web api\Session04\PersonalManagement\MailSystem.Domain\obj\Debug\netcoreapp2.1\MailSystem.Domain.csproj.CopyComplete
+D:\Abbasabadi\Web api\Session04\PersonalManagement\MailSystem.Domain\obj\Debug\netcoreapp2.1\MailSystem.Domain.dll
+D:\Abbasabadi\Web api\Session04\PersonalManagement\MailSystem.Domain\obj\Debug\netcoreapp2.1\MailSystem.Domain.pdb

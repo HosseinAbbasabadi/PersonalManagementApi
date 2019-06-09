@@ -1,0 +1,14 @@
+D:\Abbasabadi\Web api\Session04\PersonalManagement\MailSystem.Persistence.Ef\bin\Debug\netcoreapp2.1\MailSystem.Persistence.Ef.deps.json
+D:\Abbasabadi\Web api\Session04\PersonalManagement\MailSystem.Persistence.Ef\bin\Debug\netcoreapp2.1\MailSystem.Persistence.Ef.dll
+D:\Abbasabadi\Web api\Session04\PersonalManagement\MailSystem.Persistence.Ef\bin\Debug\netcoreapp2.1\MailSystem.Persistence.Ef.pdb
+D:\Abbasabadi\Web api\Session04\PersonalManagement\MailSystem.Persistence.Ef\bin\Debug\netcoreapp2.1\Framework.Core.dll
+D:\Abbasabadi\Web api\Session04\PersonalManagement\MailSystem.Persistence.Ef\bin\Debug\netcoreapp2.1\MailSystem.Domain.dll
+D:\Abbasabadi\Web api\Session04\PersonalManagement\MailSystem.Persistence.Ef\bin\Debug\netcoreapp2.1\MailSystem.Domain.pdb
+D:\Abbasabadi\Web api\Session04\PersonalManagement\MailSystem.Persistence.Ef\bin\Debug\netcoreapp2.1\Framework.Core.pdb
+D:\Abbasabadi\Web api\Session04\PersonalManagement\MailSystem.Persistence.Ef\obj\Debug\netcoreapp2.1\MailSystem.Persistence.Ef.csprojAssemblyReference.cache
+D:\Abbasabadi\Web api\Session04\PersonalManagement\MailSystem.Persistence.Ef\obj\Debug\netcoreapp2.1\MailSystem.Persistence.Ef.csproj.CoreCompileInputs.cache
+D:\Abbasabadi\Web api\Session04\PersonalManagement\MailSystem.Persistence.Ef\obj\Debug\netcoreapp2.1\MailSystem.Persistence.Ef.AssemblyInfoInputs.cache
+D:\Abbasabadi\Web api\Session04\PersonalManagement\MailSystem.Persistence.Ef\obj\Debug\netcoreapp2.1\MailSystem.Persistence.Ef.AssemblyInfo.cs
+D:\Abbasabadi\Web api\Session04\PersonalManagement\MailSystem.Persistence.Ef\obj\Debug\netcoreapp2.1\MailSystem.Persistence.Ef.csproj.CopyComplete
+D:\Abbasabadi\Web api\Session04\PersonalManagement\MailSystem.Persistence.Ef\obj\Debug\netcoreapp2.1\MailSystem.Persistence.Ef.dll
+D:\Abbasabadi\Web api\Session04\PersonalManagement\MailSystem.Persistence.Ef\obj\Debug\netcoreapp2.1\MailSystem.Persistence.Ef.pdb

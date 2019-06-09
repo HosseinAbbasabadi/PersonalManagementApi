@@ -1,0 +1,9 @@
+D:\Abbasabadi\Web api\Session04\PersonalManagement\Framework.Core\bin\Debug\netcoreapp2.1\Framework.Core.deps.json
+D:\Abbasabadi\Web api\Session04\PersonalManagement\Framework.Core\bin\Debug\netcoreapp2.1\Framework.Core.dll
+D:\Abbasabadi\Web api\Session04\PersonalManagement\Framework.Core\bin\Debug\netcoreapp2.1\Framework.Core.pdb
+D:\Abbasabadi\Web api\Session04\PersonalManagement\Framework.Core\obj\Debug\netcoreapp2.1\Framework.Core.csprojAssemblyReference.cache
+D:\Abbasabadi\Web api\Session04\PersonalManagement\Framework.Core\obj\Debug\netcoreapp2.1\Framework.Core.csproj.CoreCompileInputs.cache
+D:\Abbasabadi\Web api\Session04\PersonalManagement\Framework.Core\obj\Debug\netcoreapp2.1\Framework.Core.AssemblyInfoInputs.cache
+D:\Abbasabadi\Web api\Session04\PersonalManagement\Framework.Core\obj\Debug\netcoreapp2.1\Framework.Core.AssemblyInfo.cs
+D:\Abbasabadi\Web api\Session04\PersonalManagement\Framework.Core\obj\Debug\netcoreapp2.1\Framework.Core.dll
+D:\Abbasabadi\Web api\Session04\PersonalManagement\Framework.Core\obj\Debug\netcoreapp2.1\Framework.Core.pdb
