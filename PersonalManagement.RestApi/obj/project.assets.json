@@ -4626,6 +4626,20 @@
           "bin/placeholder/Framework.Core.dll": {}
         }
       },
+      "Infrastructure.Configuration/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v2.1",
+        "dependencies": {
+          "MailSystem.Application": "1.0.0",
+          "MailSystem.Persistence.Ef": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Infrastructure.Configuration.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Infrastructure.Configuration.dll": {}
+        }
+      },
       "MailSystem.Application/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v2.1",
@@ -12264,6 +12278,11 @@
       "path": "../Framework.Core/Framework.Core.csproj",
       "msbuildProject": "../Framework.Core/Framework.Core.csproj"
     },
+    "Infrastructure.Configuration/1.0.0": {
+      "type": "project",
+      "path": "../Infrastructure.Configuration/Infrastructure.Configuration.csproj",
+      "msbuildProject": "../Infrastructure.Configuration/Infrastructure.Configuration.csproj"
+    },
     "MailSystem.Application/1.0.0": {
       "type": "project",
       "path": "../MailSystem.Application/MailSystem.Application.csproj",
@@ -12282,8 +12301,7 @@
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.1": [
-      "MailSystem.Application >= 1.0.0",
-      "MailSystem.Persistence.Ef >= 1.0.0",
+      "Infrastructure.Configuration >= 1.0.0",
       "Microsoft.AspNetCore.App >= 2.1.1",
       "Microsoft.NETCore.App >= 2.1.0",
       "Microsoft.VisualStudio.Web.CodeGeneration.Design >= 2.1.1"
@@ -12319,11 +12337,8 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "D:\\Abbasabadi\\Web api\\Session04\\PersonalManagement\\MailSystem.Application\\MailSystem.Application.csproj": {
-              "projectPath": "D:\\Abbasabadi\\Web api\\Session04\\PersonalManagement\\MailSystem.Application\\MailSystem.Application.csproj"
-            },
-            "D:\\Abbasabadi\\Web api\\Session04\\PersonalManagement\\MailSystem.Persistence.Ef\\MailSystem.Persistence.Ef.csproj": {
-              "projectPath": "D:\\Abbasabadi\\Web api\\Session04\\PersonalManagement\\MailSystem.Persistence.Ef\\MailSystem.Persistence.Ef.csproj"
+            "D:\\Abbasabadi\\Web api\\Session04\\PersonalManagement\\Infrastructure.Configuration\\Infrastructure.Configuration.csproj": {
+              "projectPath": "D:\\Abbasabadi\\Web api\\Session04\\PersonalManagement\\Infrastructure.Configuration\\Infrastructure.Configuration.csproj"
             }
           }
         }
